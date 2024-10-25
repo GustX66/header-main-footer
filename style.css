@@ -1,0 +1,73 @@
+header {
+    border: 2px solid rgb(97, 97, 97);
+    border-style: double;
+    background-color: rgb(65, 65, 65);
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+a {
+    color: rgba(0, 0, 0, 0);
+}
+
+main {
+    border: 0px solid rgb(<h3>gustavo.henrique.brito@escola.pr.gov.br</h3>255, 255, 255);
+    border-style: double;
+    background-color: rgb(65, 65, 65);
+    width: 45%;
+    margin: 0 auto;
+}
+
+.bruno-ca {
+    color: aliceblue;
+}
+   
+   
+
+footer {
+    border: 2px solid rgb(97, 97, 97);
+    border-style: double;
+    background-color: rgb(65, 65, 65);
+    width: 50%;
+    margin: 0 auto;
+}
+
+body {
+    background-color: rgb(59, 59, 59);
+}
+
+.cbb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+h2 {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
